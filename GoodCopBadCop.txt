@@ -2,7 +2,7 @@
 --//====================================================\\--
 --||         GOOD COP BAD COP BY SHACKLUSTER
 --\\====================================================//--
-
+--converted by Melon 
 wait(0.2)
 
 game.TestService.IsSleepAllowed = false
