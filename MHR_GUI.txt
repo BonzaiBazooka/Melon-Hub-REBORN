@@ -45,6 +45,7 @@ local UIGradient_15 = Instance.new("UIGradient")
 
 MHRGUI.Name = "MHRGUI"
 MHRGUI.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+MHRGUI.ResetOnSpawn = false
 
 MHRFrame.Name = "MHRFrame"
 MHRFrame.Parent = MHRGUI
